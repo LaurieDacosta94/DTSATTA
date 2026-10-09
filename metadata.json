@@ -1,0 +1,6 @@
+{
+  "name": "Dirt to Superintelligence: AI Tech Tree Academy",
+  "description": "A beginner-friendly academy guiding you from primitive earth to autonomous superintelligence. Featuring personalized lesson plans, interactive tech tree progression, hands-on checkpoints, and a 'No Unanswered Questions Left Behind' AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
